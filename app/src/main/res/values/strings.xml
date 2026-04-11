@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IP Logger</string>
+    <string name="no_value">null</string>
+</resources>
