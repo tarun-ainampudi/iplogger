@@ -16,7 +16,7 @@ The app was built for networks that use IP-based authentication or session manag
 
 * Automatically logs IPv4 addresses on Wi-Fi connections
 * Stores recent IP history locally
-* Maps IP addresses to hostel blocks
+* Maps IP addresses to blocks
 * Periodically records IP changes in the background
 * Persists data across app restarts
 
