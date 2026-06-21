@@ -58,3 +58,7 @@ com.iplogger/
 ```
 > Note: Wi-Fi connection events are best tested on a physical device rather than an emulator.
 ```
+
+## License
+
+This project is licensed under the MIT License.
